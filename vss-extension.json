@@ -33,6 +33,15 @@
             "path": "marketplace/details.md"
         }
     },
+    "links": {
+        "support": {
+            "uri": "mailto:steve.fargher@equinox.co.nz"
+        }
+    },
+    "repository": {
+        "type": "git",
+        "uri": "https://github.com/frostmotorsport/AzureDevOpsCD3"
+      },
     "files": [
         {
             "path": "my-hub.html",
