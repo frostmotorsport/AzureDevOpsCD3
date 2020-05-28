@@ -28,6 +28,11 @@
             }
         }
     ],
+    "content": {
+        "details": {
+            "path": "marketplace/details.md"
+        }
+    },
     "files": [
         {
             "path": "my-hub.html",
