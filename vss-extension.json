@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "CD3",
     "publisher": "Steve-at-Equinox",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "name": "CD3 Extension",
     "description": "A sample Visual Studio Services extension",
     "public": false,
